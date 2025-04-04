@@ -1,0 +1,19 @@
+{
+  "name": "hse_web_app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "firebase": "^9.6.11",
+    "react-router-dom": "^6.10.0",
+    "recharts": "^2.6.2",
+    "i18next": "^22.5.1",
+    "react-i18next": "^13.2.2"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
